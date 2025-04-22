@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Finance.NET" Version="1.0.5" />
+    <PackageReference Include="Finance.NET" Version="1.0.6" />
   </ItemGroup>
 
 </Project>
